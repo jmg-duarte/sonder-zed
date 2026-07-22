@@ -410,8 +410,8 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#e3e3e3c5",
-            "font_style": null,
+            "color": "#9a9a9aff",
+            "font_style": "italic",
             "font_weight": null
           }
         },
