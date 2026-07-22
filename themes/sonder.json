@@ -77,7 +77,7 @@
         "editor.indent_guide_active": "#e3e3e3ff",
         "editor.document_highlight.read_background": "#04567710",
         "editor.document_highlight.write_background": "#04567730",
-        "editor.document_highlight.bracket_background": "#31313173",
+        "editor.document_highlight.bracket_background": "#04567773",
         "link_text.hover": "#B794F6ff",
         "conflict": "#ff3a3aff",
         "conflict.background": "#ff3a3a20",
